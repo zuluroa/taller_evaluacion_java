@@ -1,0 +1,24 @@
+
+r	java:S116"VRename this field "precio_base" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üş¡–8®ªƒ†Ó/
+o
+java:S1845	"RRename field "CONSUMO" to prevent any misunderstanding/clash with field "consumo".(Áæ¹8Û†……Ó/
+k
+java:S1845
+"NRename field "COLOR" to prevent any misunderstanding/clash with field "color".(†ûıô8Û†……Ó/
+L
+java:S1197"*Move the array designators [] to the type.(µ•ğÔûÿÿÿÿ8ê†……Ó/
+L
+java:S1197"*Move the array designators [] to the type.(ÚÅÄ‹øÿÿÿÿ8ê†……Ó/
+o	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ğ³íúÿÿÿÿ8õÔ‰†Ó/
+I
+java:S1125@"'Remove the unnecessary boolean literal.(­ïÜâşÿÿÿÿ8‹Ä†…Ó/
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(Şó°üÿÿÿÿ8ŒÄ†…Ó/
+]	java:S125|"<This block of commented-out lines of code should be removed.(’Å°„ùÿÿÿÿ8÷Œï†Ó/
+m
+java:S1192"KUse already-defined constant 'COLOR' instead of duplicating its value here.(µ•ğÔûÿÿÿÿ8í†……Ó/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ§ —8Ä†…Ó/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§³¯Ğúÿÿÿÿ8ÓÊ…†Ó/
+r	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¨ªÿÿÿÿÿ8Ä†…Ó/
+^
+java:S4973["<Strings and Boxed types should be compared using "equals()".(øÒÊÁùÿÿÿÿ8’Ä†…Ó/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ¼·…úÿÿÿÿ

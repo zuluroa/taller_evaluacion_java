@@ -1,0 +1,17 @@
+
+h	java:S116"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èüöšıÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(¬ƒ¸…
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(äÊÁ¼
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(¨ú»’
+=
+java:S1125a"'Remove the unnecessary boolean literal.(Û¬€¯
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(œÙ®æúÿÿÿÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(ï¿Ûúÿÿÿÿ
+@
+java:S1197r"*Move the array designators [] to the type.(äëø¨
+?
+java:S2140t")Use "java.util.Random.nextInt()" instead.(·¢
+k	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿé‡Íøÿÿÿÿ
+k	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÆ²¿øÿÿÿÿ
+f	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óæº
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦³Ôi

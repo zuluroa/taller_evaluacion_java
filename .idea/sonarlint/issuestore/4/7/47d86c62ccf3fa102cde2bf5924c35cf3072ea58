@@ -1,0 +1,7 @@
+
+g
+java:S1659"LDeclare "precioLavadoras" and all following declarations on a separate line.(ÀŸìˆÿÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(âŽ£äúÿÿÿÿ
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(°í¾Õùÿÿÿÿ8Ï¹Ý†Ó/
+T	java:S106$"9Replace this use of System.out or System.err by a logger.(ÌµÜ38€Çó†Ó/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ¼·…úÿÿÿÿ

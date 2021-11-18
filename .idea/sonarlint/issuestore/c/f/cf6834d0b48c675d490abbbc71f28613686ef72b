@@ -1,0 +1,10 @@
+
+v
+java:S1450"TRemove the "texto" field and declare it as a local variable in the relevant methods.(ÈÄ±Áşÿÿÿÿ8ê„”ÖÒ/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Šó58¨¦âÕÒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ëˆóÅúÿÿÿÿ8©¦âÕÒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¥¨÷Èûÿÿÿÿ8í„”ÖÒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÈ‚¯ıÿÿÿÿ8í„”ÖÒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–´º”8í„”ÖÒ/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ÎäÁÇùÿÿÿÿ8üšÖÒ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’‡òã
